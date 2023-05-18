@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1031348011081",
+    "project_id": "nostranonfe",
+    "storage_bucket": "nostranonfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031348011081:android:cc0b65d7768c90dede3f98",
+        "android_client_info": {
+          "package_name": "com.example.nostranonfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031348011081-ht5f9ebffokelc2pojs5u0njvqidio18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLrCvYTdhItNRp9TjPUQgLs0hjEsXzqxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031348011081-ht5f9ebffokelc2pojs5u0njvqidio18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031348011081-uue8e3jjbdl8rkk7aa0hrsr6c8arfr2r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nostranonfe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
